@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(253, 253, 251);
+    padding-top: 70px;
+    letter-spacing: 0.3px;
+}
+
+
+h1, h2, h3 {
+    color: rgb(25,71,86);
+}
+
+a {
+    color: rgb(0,140,158);
+}
+
+a:hover {
+    color: rgb(21,201,239);
+}
+
+#footer {
+    margin-bottom: 2em;
+}
+
+nav.navbar {
+    background: none repeat scroll 0% 0% rgb(255, 142, 30);
+    border-top: 4px solid rgb(255, 22, 69);
+    border-bottom: 1px solid rgb(255, 22, 69);
+    opacity: .97;
+}
+
+.navbar-nav a > i {
+    font-size: 140%;
+    line-height: 49%;
+    vertical-align: -4px;
+}
+
+.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand {
+    color: white !important;
+}
+.navbar-inverse .navbar-nav > .dropdown > a .caret {
+    border-top-color: white;
+    border-bottom-color: white;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 22, 69);
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    background-color: rgb(255, 22, 69);
+}
+
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    outline: 0px none;
+    background-color: rgb(255, 22, 69);
+}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    background-color: rgb(255, 22, 69);
+}
+.navbar-inverse .navbar-toggle {
+    border-color: white;
+}
+
+@media (max-width: 767px) {
+    .navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+        color: white !important;
+    }
+    .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a, .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu>.active>a:focus {
+        background-color: rgb(255, 22, 69);
+    }
+}
+

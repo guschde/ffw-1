@@ -1,0 +1,17 @@
+---
+title: "Die Anfaenge"
+date: "2014-01-22"
+aliases: ["/doc/chronicle/"]
+groups: ['chronicle']
+groups_weight: 20
+---
+Die Geschichte der Brandbekämpfung in Deutenhausen bzw. Eisolzried läßt sich bis in das Jahr 1879 zurückverfolgen. Es liegen mehrere Anschreiben des königlichen Bezirksamtes Dachau, bezüglich der Feuerlöschordnung und der Armbinden für die damalige Pflichtfeuerwehr an die ehemalige Gemeinde Eisolzried vor. Im Jahre 1884 erfolgten weitere Anschreiben im Hinblick auf die Bereitstellung von verschiedensten Wasserreserven in der Gemeinde, die sich über die Ortsteile Deutenhausen, Eisolzried, Priel, Palsweis und Palsweis-Moos erstreckte.
+
+Die Brandbekämpfung zum Ende des 19. und zu Beginn des 20. Jahrhunderts wurde weitgehend mit unzureichender Ausrüstung durchgeführt. So konnte sich die Begrenzung der Schadensereignisse lediglich auf die Rettung angrenzender, vom Feuer noch nicht betroffener Gebäude und Gebäudeteile erstrecken, wie der nachfolgender Bericht beweist.
+
+Dachau. 2. März. Schadenfeuer. Gestern früh gegen 5 Uhr brach in dem Schloßbauern-Anwesen zu Eisolzried Feuer aus, welches bei dem Sturme mit rasender Schnelligkeit um sich griff. Trotz der zur Hülfe herbeigeeilten Feuerwehren aus den umliegenden Gemeinden des Bezirks fielen dem verheerenden Element sämmtliche Stallungen, Remisen und der Stadel, sowie die Wagen, landwirtschaftliche Geräthe und Maschinen zum Opfer. Der ca. 30 Meter davon entfernte Bauernhof wurde vom Feuer ebenfalls ergriffen und das Wohnhaus, Stallungen, Stadel und mit Ausnahme einiger Wagen, wurden sämmtliche landwirtschaftliche Maschinen und Geräthe, sowie ca. 70 Schäffel Getreide vom Feuer vernichtet. Das Vieh wurde bei Beiden gerettet. Den Anstrengungen der Feuerwehren gelang es, den stark bedrohten dritten Bauernhof zu retten. Das Feuer soll durch das Herabfallen einer Hängelampe entstanden sein. 
+(Originaltext aus der Ausgabe des Amperboten vom Samstag, den 03. März 1894)
+
+Um eine effizientere Brandbekämpfung zu ermöglichen, fasste der damalige Gemeinderat im Jahre 1900 den Beschluß, eine Feuerlöschmaschine zu kaufen und diese in den Dienst der neu gegründeten Freiwilligen Feuerwehr Eisolzried zu stellen. Nach deren Auslieferung am 16. Januar 1901 konnte unter Aufsicht des Bezirksdirektors Mayerbacher und des Regierungsrates am Sonntag, den 24.Januar 1901, eine Prüfung des Löschgerätes und der Mannschaft erfolgreich durchgeführt werden. Schon im Mai des selben Jahres mußten sich Mannschaft und Gerät im Praxiseinsatz, beim Brand der Gastwirtschaft Westenrieder in Feldgeding, bewähren.
+
+Nach mehreren durchgeführten Inspizierungen konnte am 14. Juni 1903 durch die Anmeldung beim Bayerischen Landesfeuerwehrverband die Anerkennung als "Freiwillige Feuerwehr Eisolzried" erteilt werden. Zu diesem Zeitpunkt waren 55 aktive Feuerwehrmänner unter Führung von Kommandant Karl Liebl und Vorstand Matthias Heigl registriert. Die Ausrüstung bestand zum damaligen Zeitpunkt aus je einer Leiter mit und ohne Stützstangen, einer Saug- und Druckspritze mit 140 Metern Druckschläuchen. Dieses Inventar brachte man im sogenannten Feuerwehrrequisitationshaus in Eisolzried unter, welches sich am gleichen Standort des heutigen Feuerwehrhauses befand.

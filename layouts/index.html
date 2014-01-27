@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>FFw Eisolzried</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Add custom CSS here -->
+    <link href="/static/css/HPstyles.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <!-- Full Page Image Header Area -->
+    <div id="top" class="header">
+      <div class="vert-text">
+        <h1>Willkommen</h1>
+        <h3>auf der Homepage der Freiwilligen Feuerwehr Eisolzried</h3>
+        <br>
+        <a href="/chronicle/chronicle1/" class="btn btn-clear btn-lg">Hauptseite</a>
+		<br>
+		<a href="#dates" class="btn btn-clear btn-lg">Termine</a>
+      </div>
+    </div>
+    <!-- /Full Page Image Header Area -->
+
+    <div id="main">
+        <!-- Dates -->
+        <div id="dates" class="counterpoint">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-6 col-md-offset-3 text-center">
+				<img src="/static/img/calendar.png"> 
+                <h2>Termine</h2>
+                <p class="lead">
+                    Hier steht bald der aktuelle Übungsplan für 2014 und weitere Termine.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- /Dates -->
+    <!-- /Footer -->
+
+  <!-- Bootstrap core JavaScript -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="/static/js/jquery.js"></script>
+  <script src="/static/js/bootstrap.min.js"></script>
+
+  <script>
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') 
+              || location.hostname == this.hostname) {
+
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+              return false;
+            }
+          }
+        });
+      });
+    </script>
+  </body>
+
+</html>
